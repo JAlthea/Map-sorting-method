@@ -1,7 +1,7 @@
 # Map sorting method by vector
-Simply, you can use vector(list) for sorting map, </br>
-including basic sorting of map such as less(descending order) and greater(ascending order). </br>
-This method is useful to custom-data-type such as class and struct.
+Simply, you can use vector(list) for sorting map. </br>
+This method is useful to custom-data-type such as class and struct which need value-sort, duplicate key, </br>
+as well as simple key-sort including basic sorting of map such as less(descending order) and greater(ascending order). 
 
 # Purpose
 For searching specific data by sorting of map which has non-default data type. </br>
