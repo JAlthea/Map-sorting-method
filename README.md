@@ -3,4 +3,4 @@ including basic sorting of map such as less(descending order) and greater(ascend
 This method is useful to custom-data-type such as class and struct.
 
 
-To sum up, 'vector -> sort -> (sorted)vector -> map'
+To summarize the code, 'vector -> sort -> (sorted)vector -> map'
