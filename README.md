@@ -6,7 +6,7 @@ as well as simple key-sort including basic sorting of map such as less(descendin
 
 # Purpose
 For searching specific data by sorting of map which has non-default data type. </br>
-O(n) -> O(1) </br></br>
+Search Time Complexity : O(n) -> O(1) </br></br>
 
 
 To summarize process, 'vector -> sort -> (sorted)vector -> map'
