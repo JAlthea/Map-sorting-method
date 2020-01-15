@@ -1,7 +1,7 @@
-#include<string>
-#include<algorithm>
-#include<vector>
-#include<map>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <map>
 using namespace std;
 
 struct Photo {
@@ -32,7 +32,6 @@ int main()
         m[v[i].time] = v[i];
     //...
     
-    //O(1)
     int desiredTime = 20191210;
-    Photo p = m[desiredTime];
+    Photo p = m[desiredTime];   //O(logn)
 }
