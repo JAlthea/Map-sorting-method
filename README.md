@@ -1,7 +1,7 @@
 # Map sorting method by vector
 Simply, you can use vector(list) for sorting map(tree). </br>
 This method is useful to custom-data-type such as class and struct which need value-sort, duplicate key </br>
-as well as simple key-sort including basic sorting of map such as less(descending order) and greater(ascending order). 
+as well as simple key-sort including basic sorting of map such as less(descending order) and greater(ascending order). </br>
 [Example Code](ExampleCode.cpp)
 
 # Purpose
